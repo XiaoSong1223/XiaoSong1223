@@ -1,12 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="45" viewBox="0 0 640 45" role="img" aria-labelledby="title desc">
-  <title id="title">LLMs, agents, and computer vision</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img" aria-labelledby="title desc">
+  <title id="title">Song Zhifei — LLM Applications and Computer Vision</title>
   <desc id="desc">Building with LLMs, Agents and RAG. Exploring self-supervised learning. Turning ideas into practical tools.</desc>
+  <!-- Pixel title uses Press Start 2P, by Cody Boisclair / The Press Start 2P Project Authors.
+       Source: https://github.com/google/fonts/tree/main/ofl/pressstart2p
+       License: SIL Open Font License 1.1; see LICENSE-PressStart2P.txt.
+       Glyph outlines are embedded so the title does not depend on installed fonts. -->
   <defs>
-    <linearGradient id="banner-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#4158D0" />
-      <stop offset="50%" stop-color="#C850C9" />
-      <stop offset="100%" stop-color="#FFCC70" />
-    </linearGradient>
     <clipPath id="line-0">
       <rect x="116" y="0" width="0" height="45">
         <animate attributeName="width" values="0;12;24;36;48;60;72;84;96;108;120;132;144;156;168;180;192;204;216;228;240;252;264;276;288;300;312;324;336;348;360;372;384;396;408;396;384;372;360;348;336;324;312;300;288;276;264;252;240;228;216;204;192;180;168;156;144;132;120;108;96;84;72;60;48;36;24;12;0;0;0" keyTimes="0.000000;0.011569;0.016471;0.021373;0.026275;0.031176;0.036078;0.040980;0.045882;0.050784;0.055686;0.060588;0.065490;0.070392;0.075294;0.080196;0.085098;0.090000;0.094902;0.099804;0.104706;0.109608;0.114510;0.119412;0.124314;0.129216;0.134118;0.139020;0.143922;0.148824;0.153725;0.158627;0.163529;0.168431;0.173333;0.268235;0.269804;0.271373;0.272941;0.274510;0.276078;0.277647;0.279216;0.280784;0.282353;0.283922;0.285490;0.287059;0.288627;0.290196;0.291765;0.293333;0.294902;0.296471;0.298039;0.299608;0.301176;0.302745;0.304314;0.305882;0.307451;0.309020;0.310588;0.312157;0.313725;0.315294;0.316863;0.318431;0.320000;0.333333;1.000000" calcMode="discrete" dur="15s" repeatCount="indefinite" />
@@ -22,18 +21,29 @@
         <animate attributeName="width" values="0;0;12;24;36;48;60;72;84;96;108;120;132;144;156;168;180;192;204;216;228;240;252;264;276;288;300;312;324;336;348;360;372;384;396;408;396;384;372;360;348;336;324;312;300;288;276;264;252;240;228;216;204;192;180;168;156;144;132;120;108;96;84;72;60;48;36;24;12;0;0" keyTimes="0.000000;0.666667;0.678235;0.683137;0.688039;0.692941;0.697843;0.702745;0.707647;0.712549;0.717451;0.722353;0.727255;0.732157;0.737059;0.741961;0.746863;0.751765;0.756667;0.761569;0.766471;0.771373;0.776275;0.781176;0.786078;0.790980;0.795882;0.800784;0.805686;0.810588;0.815490;0.820392;0.825294;0.830196;0.835098;0.840000;0.934902;0.936471;0.938039;0.939608;0.941176;0.942745;0.944314;0.945882;0.947451;0.949020;0.950588;0.952157;0.953725;0.955294;0.956863;0.958431;0.960000;0.961569;0.963137;0.964706;0.966275;0.967843;0.969412;0.970980;0.972549;0.974118;0.975686;0.977255;0.978824;0.980392;0.981961;0.983529;0.985098;0.986667;1.000000" calcMode="discrete" dur="15s" repeatCount="indefinite" />
       </rect>
     </clipPath>
+
   </defs>
   <style>
-    text { font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace; font-size: 20px; font-weight: 600; }
+    .typing text { font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace; font-size: 20px; font-weight: 600; }
     .static { display: none; }
     @media (prefers-reduced-motion: reduce) {
       .animated { display: none; }
       .static { display: inline; }
     }
+
   </style>
-  <!-- Three five-second slots: type, hold, erase. Colors match the README banner. -->
-  <g class="animated" clip-path="url(#line-0)"><text x="116" y="30" textLength="408" lengthAdjust="spacingAndGlyphs" fill="url(#banner-gradient)">Building with LLMs, Agents and RAG</text></g>
-  <g class="animated" clip-path="url(#line-1)"><text x="116" y="30" textLength="408" lengthAdjust="spacingAndGlyphs" fill="url(#banner-gradient)">Exploring self-supervised learning</text></g>
-  <g class="animated" clip-path="url(#line-2)"><text x="116" y="30" textLength="408" lengthAdjust="spacingAndGlyphs" fill="url(#banner-gradient)">Turning ideas into practical tools</text></g>
-  <text class="static" x="116" y="30" textLength="408" lengthAdjust="spacingAndGlyphs" fill="url(#banner-gradient)">Building with LLMs, Agents and RAG</text>
+  <rect width="900" height="230" fill="#111111" />
+  <rect x="14" y="14" width="872" height="202" fill="none" stroke="#444444" />
+  <path d="M14 33V14H33 M867 14H886V33 M886 197V216H867 M33 216H14V197" fill="none" stroke="#f2f2f2" stroke-width="2" shape-rendering="crispEdges" />
+  <text x="40" y="40" fill="#999999" font-family="monospace" font-size="10" letter-spacing="1.5">XIAOSONG1223 / README</text>
+  <path d="M235.0 98.0V93.0H230.0V88.0H240.0V93.0H255.0V83.0H235.0V78.0H230.0V68.0H235.0V63.0H260.0V68.0H265.0V73.0H255.0V68.0H240.0V78.0H260.0V83.0H265.0V93.0H260.0V98.0ZM275.0 98.0V93.0H270.0V68.0H275.0V63.0H300.0V68.0H305.0V93.0H300.0V98.0ZM280.0 93.0H295.0V68.0H280.0ZM310.0 98.0V63.0H320.0V68.0H325.0V73.0H330.0V78.0H335.0V63.0H345.0V98.0H335.0V88.0H330.0V83.0H325.0V78.0H320.0V98.0ZM360.0 98.0V93.0H355.0V88.0H350.0V73.0H355.0V68.0H360.0V63.0H385.0V68.0H365.0V73.0H360.0V88.0H365.0V93.0H375.0V83.0H370.0V78.0H385.0V98.0ZM430.0 98.0V88.0H435.0V83.0H440.0V78.0H445.0V73.0H450.0V68.0H430.0V63.0H465.0V73.0H460.0V78.0H455.0V83.0H450.0V88.0H445.0V93.0H465.0V98.0ZM470.0 98.0V63.0H480.0V78.0H495.0V63.0H505.0V98.0H495.0V83.0H480.0V98.0ZM515.0 98.0V93.0H525.0V68.0H515.0V63.0H545.0V68.0H535.0V93.0H545.0V98.0ZM550.0 98.0V63.0H585.0V68.0H560.0V78.0H580.0V83.0H560.0V98.0ZM590.0 98.0V63.0H625.0V68.0H600.0V78.0H620.0V83.0H600.0V93.0H625.0V98.0ZM635.0 98.0V93.0H645.0V68.0H635.0V63.0H665.0V68.0H655.0V93.0H665.0V98.0Z" fill="#f2f2f2" shape-rendering="crispEdges" />
+  <text x="450" y="134" text-anchor="middle" fill="#b8b8b8" font-family="monospace" font-size="14" letter-spacing="1">LLM Applications · Computer Vision</text>
+  <path d="M402 153H438 M446 153H454 M462 153H498" stroke="#555555" stroke-width="2" shape-rendering="crispEdges" />
+  <g class="typing" transform="translate(130 157)">
+    <text x="94" y="30" fill="#999999">&gt;</text>
+  <g class="animated" clip-path="url(#line-0)"><text x="116" y="30" textLength="408" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">Building with LLMs, Agents and RAG</text></g>
+  <g class="animated" clip-path="url(#line-1)"><text x="116" y="30" textLength="408" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">Exploring self-supervised learning</text></g>
+  <g class="animated" clip-path="url(#line-2)"><text x="116" y="30" textLength="408" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">Turning ideas into practical tools</text></g>
+  <text class="static" x="116" y="30" textLength="408" lengthAdjust="spacingAndGlyphs" fill="#f2f2f2">Building with LLMs, Agents and RAG</text>
+  </g>
 </svg>

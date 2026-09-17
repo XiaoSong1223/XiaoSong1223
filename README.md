@@ -1,20 +1,18 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4158D0,50:C850C9,100:FFCC70&amp;height=180&amp;section=header&amp;text=Song%20Zhifei&amp;fontSize=54&amp;fontColor=ffffff&amp;fontAlignY=32&amp;desc=LLM%20Applications%20%7C%20Computer%20Vision&amp;descSize=18&amp;descAlignY=52&amp;animation=fadeIn" alt="Song Zhifei — LLM Applications and Computer Vision" />
-
 <p align="center">
   <a href="https://github.com/XiaoSong1223?tab=repositories">
-    <img width="640" src="./assets/typing-gradient.svg" alt="Building with LLMs, agents and RAG; exploring self-supervised learning; turning ideas into practical tools" />
+    <img width="100%" src="./assets/banner-monochrome.svg" alt="Song Zhifei — LLM Applications and Computer Vision. Building with LLMs, Agents and RAG; exploring self-supervised learning; turning ideas into practical tools." />
   </a>
 </p>
 
-### 👋 About Me
+### About Me
 
-- 🎓 **MSc in Signal Processing & Machine Learning · NTU Singapore** — Aug 2026–Jul 2027 (expected)
-- 🏫 **BEng in Artificial Intelligence · Xiamen University** — 2022–2026
-- 💼 Former **LLM Algorithm Intern** at **Hithink RoyalFlush (同花顺)**
-- 🔭 Focused on **LLM applications, agent systems, RAG, and evaluation**
-- 🏄 Also exploring **self-supervised learning and object detection**, and building small macOS tools
+- **MSc in Signal Processing & Machine Learning · NTU Singapore** — Aug 2026–Jul 2027 (expected)
+- **BEng in Artificial Intelligence · Xiamen University** — 2022–2026
+- Former **LLM Algorithm Intern** at **Hithink RoyalFlush (同花顺)**
+- Focused on **LLM applications, agent systems, RAG, and evaluation**
+- Also exploring **self-supervised learning and object detection**, and building small macOS tools
 
-### 🚀 Selected Projects
+### Selected Projects
 
 | Project | What it does | Explore |
 | :--- | :--- | :--- |
@@ -24,19 +22,30 @@
 | **[WebRTC Virtual Background](https://github.com/XiaoSong1223/webrtc-virtual-background)** | Browser-side person segmentation and background compositing with MediaPipe, WebGL2, and LiveKit. | [Engineering report](https://xiaosong1223.github.io/webrtc-virtual-background/report.html) |
 | **[Hypergraph-YOLOv9-MultiScale](https://github.com/XiaoSong1223/Hypergraph-YOLOv9-MultiScale)** | A multi-scale detection head for Hyper-YOLO / YOLOv9, evaluated on tomato ripeness detection. | [Model & results](https://github.com/XiaoSong1223/Hypergraph-YOLOv9-MultiScale#readme) |
 
-### 🛠 Tech Stack
+### Tech Stack
 
 <p align="center">
-  <img width="476" src="https://skillicons.dev/icons?i=py,pytorch,opencv,fastapi,docker,git,linux,js,swift&amp;theme=dark&amp;perline=9" alt="Python, PyTorch, OpenCV, FastAPI, Docker, Git, Linux, JavaScript, and Swift" />
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-111111?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenCV-111111?style=flat-square&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/vLLM-FF6F00?style=for-the-badge" alt="vLLM" />
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&amp;logo=yolo&amp;logoColor=black" alt="YOLO" />
+  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&amp;logo=linux&amp;logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&amp;logo=javascript&amp;logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Swift-111111?style=flat-square&amp;logo=swift&amp;logoColor=white" alt="Swift" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-111111?style=flat-square&amp;logo=langchain&amp;logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-111111?style=flat-square&amp;logo=huggingface&amp;logoColor=white" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/vLLM-111111?style=flat-square" alt="vLLM" />
+  <img src="https://img.shields.io/badge/YOLO-111111?style=flat-square&amp;logo=yolo&amp;logoColor=white" alt="YOLO" />
+</p>
+
+---
 
 Project feedback, bug reports, and collaboration ideas are welcome in the relevant repository's issues.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FFCC70,50:C850C9,100:4158D0&amp;height=90&amp;section=footer" alt="" />
