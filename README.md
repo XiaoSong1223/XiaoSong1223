@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/XiaoSong1223?tab=repositories">
-    <img width="640" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=C850C9&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=45&amp;lines=Building+with+LLMs%2C+Agents+and+RAG;Exploring+self-supervised+learning;Turning+ideas+into+practical+tools" alt="Building with LLMs, agents and RAG; exploring self-supervised learning; turning ideas into practical tools" />
+    <img width="640" src="./assets/typing-gradient.svg" alt="Building with LLMs, agents and RAG; exploring self-supervised learning; turning ideas into practical tools" />
   </a>
 </p>
 

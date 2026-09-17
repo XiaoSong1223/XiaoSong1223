@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="45" viewBox="0 0 640 45" role="img" aria-labelledby="title desc">
+  <title id="title">LLMs, agents, and computer vision</title>
+  <desc id="desc">Building with LLMs, Agents and RAG. Exploring self-supervised learning. Turning ideas into practical tools.</desc>
+  <defs>
+    <linearGradient id="banner-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4158D0" />
+      <stop offset="50%" stop-color="#C850C9" />
+      <stop offset="100%" stop-color="#FFCC70" />
+    </linearGradient>
+    <clipPath id="line-0">
+      <rect x="116" y="0" width="0" height="45">
+        <animate attributeName="width" values="0;12;24;36;48;60;72;84;96;108;120;132;144;156;168;180;192;204;216;228;240;252;264;276;288;300;312;324;336;348;360;372;384;396;408;396;384;372;360;348;336;324;312;300;288;276;264;252;240;228;216;204;192;180;168;156;144;132;120;108;96;84;72;60;48;36;24;12;0;0;0" keyTimes="0.000000;0.011569;0.016471;0.021373;0.026275;0.031176;0.036078;0.040980;0.045882;0.050784;0.055686;0.060588;0.065490;0.070392;0.075294;0.080196;0.085098;0.090000;0.094902;0.099804;0.104706;0.109608;0.114510;0.119412;0.124314;0.129216;0.134118;0.139020;0.143922;0.148824;0.153725;0.158627;0.163529;0.168431;0.173333;0.268235;0.269804;0.271373;0.272941;0.274510;0.276078;0.277647;0.279216;0.280784;0.282353;0.283922;0.285490;0.287059;0.288627;0.290196;0.291765;0.293333;0.294902;0.296471;0.298039;0.299608;0.301176;0.302745;0.304314;0.305882;0.307451;0.309020;0.310588;0.312157;0.313725;0.315294;0.316863;0.318431;0.320000;0.333333;1.000000" calcMode="discrete" dur="15s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+    <clipPath id="line-1">
+      <rect x="116" y="0" width="0" height="45">
+        <animate attributeName="width" values="0;0;12;24;36;48;60;72;84;96;108;120;132;144;156;168;180;192;204;216;228;240;252;264;276;288;300;312;324;336;348;360;372;384;396;408;396;384;372;360;348;336;324;312;300;288;276;264;252;240;228;216;204;192;180;168;156;144;132;120;108;96;84;72;60;48;36;24;12;0;0;0" keyTimes="0.000000;0.333333;0.344902;0.349804;0.354706;0.359608;0.364510;0.369412;0.374314;0.379216;0.384118;0.389020;0.393922;0.398824;0.403725;0.408627;0.413529;0.418431;0.423333;0.428235;0.433137;0.438039;0.442941;0.447843;0.452745;0.457647;0.462549;0.467451;0.472353;0.477255;0.482157;0.487059;0.491961;0.496863;0.501765;0.506667;0.601569;0.603137;0.604706;0.606275;0.607843;0.609412;0.610980;0.612549;0.614118;0.615686;0.617255;0.618824;0.620392;0.621961;0.623529;0.625098;0.626667;0.628235;0.629804;0.631373;0.632941;0.634510;0.636078;0.637647;0.639216;0.640784;0.642353;0.643922;0.645490;0.647059;0.648627;0.650196;0.651765;0.653333;0.666667;1.000000" calcMode="discrete" dur="15s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+    <clipPath id="line-2">
+      <rect x="116" y="0" width="0" height="45">
+        <animate attributeName="width" values="0;0;12;24;36;48;60;72;84;96;108;120;132;144;156;168;180;192;204;216;228;240;252;264;276;288;300;312;324;336;348;360;372;384;396;408;396;384;372;360;348;336;324;312;300;288;276;264;252;240;228;216;204;192;180;168;156;144;132;120;108;96;84;72;60;48;36;24;12;0;0" keyTimes="0.000000;0.666667;0.678235;0.683137;0.688039;0.692941;0.697843;0.702745;0.707647;0.712549;0.717451;0.722353;0.727255;0.732157;0.737059;0.741961;0.746863;0.751765;0.756667;0.761569;0.766471;0.771373;0.776275;0.781176;0.786078;0.790980;0.795882;0.800784;0.805686;0.810588;0.815490;0.820392;0.825294;0.830196;0.835098;0.840000;0.934902;0.936471;0.938039;0.939608;0.941176;0.942745;0.944314;0.945882;0.947451;0.949020;0.950588;0.952157;0.953725;0.955294;0.956863;0.958431;0.960000;0.961569;0.963137;0.964706;0.966275;0.967843;0.969412;0.970980;0.972549;0.974118;0.975686;0.977255;0.978824;0.980392;0.981961;0.983529;0.985098;0.986667;1.000000" calcMode="discrete" dur="15s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+  </defs>
+  <style>
+    text { font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace; font-size: 20px; font-weight: 600; }
+    .static { display: none; }
+    @media (prefers-reduced-motion: reduce) {
+      .animated { display: none; }
+      .static { display: inline; }
+    }
+  </style>
+  <!-- Three five-second slots: type, hold, erase. Colors match the README banner. -->
+  <g class="animated" clip-path="url(#line-0)"><text x="116" y="30" textLength="408" lengthAdjust="spacingAndGlyphs" fill="url(#banner-gradient)">Building with LLMs, Agents and RAG</text></g>
+  <g class="animated" clip-path="url(#line-1)"><text x="116" y="30" textLength="408" lengthAdjust="spacingAndGlyphs" fill="url(#banner-gradient)">Exploring self-supervised learning</text></g>
+  <g class="animated" clip-path="url(#line-2)"><text x="116" y="30" textLength="408" lengthAdjust="spacingAndGlyphs" fill="url(#banner-gradient)">Turning ideas into practical tools</text></g>
+  <text class="static" x="116" y="30" textLength="408" lengthAdjust="spacingAndGlyphs" fill="url(#banner-gradient)">Building with LLMs, Agents and RAG</text>
+</svg>
