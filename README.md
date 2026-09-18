@@ -1,8 +1,23 @@
-<p align="center">
-  <a href="https://github.com/XiaoSong1223?tab=repositories">
-    <img width="100%" src="./assets/banner-monochrome.svg" alt="Song Zhifei — LLM Applications and Computer Vision. Building with LLMs, Agents and RAG; exploring self-supervised learning; turning ideas into practical tools." />
-  </a>
-</p>
+<div align="center">
+
+```text
+╔═══════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                   ║
+║   ███████╗ ██████╗ ███╗   ██╗ ██████╗    ███████╗██╗  ██╗██╗███████╗███████╗██╗   ║
+║   ██╔════╝██╔═══██╗████╗  ██║██╔════╝    ╚══███╔╝██║  ██║██║██╔════╝██╔════╝██║   ║
+║   ███████╗██║   ██║██╔██╗ ██║██║  ███╗     ███╔╝ ███████║██║█████╗  █████╗  ██║   ║
+║   ╚════██║██║   ██║██║╚██╗██║██║   ██║    ███╔╝  ██╔══██║██║██╔══╝  ██╔══╝  ██║   ║
+║   ███████║╚██████╔╝██║ ╚████║╚██████╔╝   ███████╗██║  ██║██║██║     ███████╗██║   ║
+║   ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝    ╚══════╝╚═╝  ╚═╝╚═╝╚═╝     ╚══════╝╚═╝   ║
+║                                                                                   ║
+║                         LLM Applications · Computer Vision                        ║
+║                                                                                   ║
+╚═══════════════════════════════════════════════════════════════════════════════════╝
+```
+
+<img width="640" src="./assets/typing-terminal.svg" alt="Building with LLMs, Agents and RAG; exploring self-supervised learning; turning ideas into practical tools." />
+
+</div>
 
 ### About Me
 
